@@ -148,3 +148,15 @@ Neural Computation, 4(1):131–139, 1992.
 **[49]** Luca Bertinetto, Joao F. Henriques, Philip Torr and Andrea Vedaldi. **Meta-learning with differentiable closed-form solvers** arXiv preprint arXiv:1805.08136 (2018).
 
 **[50]** Yoonho Lee, Seungjin Choi. **Gradient-Based Meta-Learning with Learned Layerwise Metric and Subspace.** ICML 2018.
+
+## 3 Blogs & Workshops in Meta-Learning, AutoML, Domain Adaptation, etc.
+
+**[1]** [Workshop on Meta-Learning @NeurlPS2018](http://metalearning.ml/2018/)
+
+**[2]** [BAIR - Learning to Learn](https://bair.berkeley.edu/blog/2017/07/18/learning-to-learn/)
+
+**[3]** [Lil'Log - Meta-Learning](https://lilianweng.github.io/lil-log/2018/11/30/meta-learning.html)
+
+**[4]** [Alex Ratner - Data Programming](https://ajratner.github.io)
+
+**[5]** [Anna Korhonen - Domain Adaptation in NLP](https://www/cl.cam.ac.uk/~alk23/)
