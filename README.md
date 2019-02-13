@@ -157,6 +157,8 @@ Neural Computation, 4(1):131–139, 1992.
 
 ### 2.3 Meta Learning+
 
+**[1]** Zhang, Ruixiang, et al. "MetaGAN: An Adversarial Approach to Few-Shot Learning." Advances in Neural Information Processing Systems. 2018.
+
 ## 3 Blogs & Workshops in Meta-Learning, AutoML, Domain Adaptation, etc.
 
 **[1]** [Workshop on Meta-Learning @NeurlPS2018](http://metalearning.ml/2018/)
