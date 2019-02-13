@@ -1,6 +1,6 @@
 ## Meta Learning/ Learning to Learn/ One Shot Learning/ Lifelong Learning
 
-### 1 Legacy Papers
+## 1 Legacy Papers
 
 **[1]** Nicolas Schweighofer and Kenji Doya. **Meta-learning in reinforcement learning**. Neural Networks, 16(1):5–9, 2003.
 
@@ -50,6 +50,8 @@ Neural Computation, 4(1):131–139, 1992.
 **[21]** Thrun, Sebastian and Pratt, Lorien. **Learning to learn**. Springer Science & Business Media, 1998.
 
 ## 2 Recent Papers
+
+### 2.1 Meta Learning
 
 **[1]** Andrychowicz, Marcin, Denil, Misha, Gomez, Sergio, Hoffman, Matthew W, Pfau, David, Schaul, Tom, and de Freitas, Nando. **Learning to learn by gradient descent by gradient descent**. In Advances in Neural Information Processing Systems, pp. 3981–3989, 2016
 
@@ -148,6 +150,12 @@ Neural Computation, 4(1):131–139, 1992.
 **[49]** Luca Bertinetto, Joao F. Henriques, Philip Torr and Andrea Vedaldi. **Meta-learning with differentiable closed-form solvers** arXiv preprint arXiv:1805.08136 (2018).
 
 **[50]** Yoonho Lee, Seungjin Choi. **Gradient-Based Meta-Learning with Learned Layerwise Metric and Subspace.** ICML 2018.
+
+### 2.2 AutoML
+
+**[1]** Quanming, Yao, et al. "Taking human out of learning applications: A survey on automated machine learning." arXiv preprint arXiv:1810.13306 (2018).
+
+### 2.3 Meta Learning+
 
 ## 3 Blogs & Workshops in Meta-Learning, AutoML, Domain Adaptation, etc.
 
